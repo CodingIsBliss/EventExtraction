@@ -1,0 +1,108 @@
+#$#
+tsunami
+tsunami tsunamis water tall huge | tsunami tsunamis wave
+#$#
+heat_wave
+heatwave loo heat sun high | heatwave loo stroke temperature mercury celsius fahrenheit intense kill killing killed die dead death
+#$#
+cold_wave
+freeze cold frost temperature minus mercury | point wave bite drop dip wind celsius fahrenheit
+#$#
+forest_fire
+forest tree | fire burn ashes flames
+#$#
+limnic_eruption
+limnic CO2 carbon water | eruption dioxide burst suffocation
+#$#
+storm
+storm tornado tornados | storm tornado tornados
+#$#
+avalanches
+avalanche snowslide snow | avalanche snowslide slide
+#$#
+blizzard
+blizzard snowstorm white-out freeze snow ice | blizzard snowstorm white-out storm blast
+#$#
+earthquake
+earthquake earthquakes quake quakes richter epicentre seismic | earthquake earthquakes quake quakes richter event
+#$#
+floods
+flood water | flood drown
+#$#
+hurricane
+hurricane hurricanes | hurricane hurricanes
+#$#
+drought
+drought droughts | drought droughts
+#$#
+volcano
+volcano lava magma eruption | volcano lava magma
+#$#
+fire
+firefighter firefighters fireman firemen ash ashes flames fire burn | firefighter firefighters fireman firemen ash ashes accident mishap hazard tender fighter engine man men blazing destroy destroyed smoke broke kill killing killed die dead death
+#$#
+cyclone
+cyclone water | cyclone storm winds
+#$#
+hail_storms
+hailstorm hailstorms ice hail | hailstorm hailstorms wind winds storm
+#$#
+land_slide
+landslide land mud soil rock debris | landslide slide slope flow topple
+#$#
+epicentre
+epicentre earthquake quake | epicentre origin originate centre
+#$#
+temperature
+temperature | temperature
+#$#
+depth
+depth | depth
+#$#
+speed
+storm wind | speed miles kilometre per
+#$#
+magnitude
+quake earthquake richter | magnitude richter
+#$#
+terrorist_attack
+terrorism terrorist militant isi isis jihadi jihad terror radical attacker attack | terrorism terrorist militant isi isis jihadi jihad hostage guerrilla group
+#$#
+suicide_attack
+suicide self | attack bomb bombing mission kill killing killed die dead death
+#$#
+normal_bombing
+bombing bomb blast | bombing bomb blast kill killing killed die dead death collapse
+#$#
+shoot_out
+shoot shot gun gunman pistol weapon bullet arms arm | shoot shot gun gunman kill killing killed die dead death
+#$#
+aviation_hazard
+airplane airbus aircraft aviation aeroplane plane pilot cockpit | accident hazard mishap crash hijack terror terrorist attack
+#$#
+train_collision
+derail train rail railway | derail accident collision
+#$#
+industrial_accident
+industry industrial factory worker chemical mechanical | accident disaster mishap burst catastrophe death die dead kill killed
+#$#
+vehicular_collision
+vehicle bus car truck tempo lorry jeep cycle bike run motorcycle motorcyclist motorbike road | collision accident mishap crash ram rammed kill killing killed die dead death over hit
+#$#
+surgical_strikes
+strike military army | surgical attack guerrilla kill killing killed die dead death
+#$#
+transport_hazards
+bike car bus vehicle | accident disaster mishap hazard kill killing killed die dead death injured
+#$#
+riots
+rebel rebels rebellion war riot riots protest protester protests protesters angry anger angered | rebel rebels rebellion war riot riots protest protester protests protesters mob
+#$#
+epidemic
+epidemic hiv aids hepatitis virus infection infections disease diseases | epidemic injection injections medicine medicines syringe syringes
+#$#
+famine
+famine starve hungry scarcity low | famine starve hungry food rainfall crop
+#$#
+casualties
+death die dead hospitalize hospitalized treatment treat injury injured kill killed | death die dead hospitalize hospitalized treatment treat injury injured kill killed found

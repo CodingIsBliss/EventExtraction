@@ -1,0 +1,78 @@
+#$#
+tsunami
+tsunami tsunamis water tall huge | tsunami tsunamis wave
+#$#
+heat_wave
+loo heat sun high | loo stroke temprature mercury celsius fahrenheit
+#$#
+cold_wave
+freeze cold frost temprature minus mercury | point wave bite drop dip wind celsius fahrenheit
+#$#
+forest_fire
+forest tree | fire burn ashes flames
+#$#
+limnic_eruption
+limnic CO2 carbon water | eruption dioxide burst suffocation
+#$#
+storm
+tornado tornados | tornado tornados
+#$#
+avalanches
+avalanche snowslide | avalanche snowslide
+#$#
+blizzard
+blizzard snowstorm white-out freeze snow ice hail | blizzard snowstorm white-out storm blast
+#$#
+earthquake
+earthquake earthquakes quake quakes richter epicentre seismic | earthquake earthquakes quake quakes richter event tremor
+#$#
+floods
+flood water | flood drown
+#$#
+hurricane
+hurricane hurricanes | hurricane hurricanes cyclone
+#$#
+drought
+drought droughts | drought droughts
+#$#
+volcano
+volcano lava magma eruption | volcano lava magma
+#$#
+fire
+flames fire burn | accident hazard
+#$#
+cyclone
+cyclone water | cyclone storm winds
+#$#
+hail_storms
+ice hail | winds storm
+#$#
+land_slide
+land mud soil rock debris | slide slope flow topple
+#$#
+epicentre
+epicentre earthquake quake | epicentre origin originate centre
+#$#
+temperature
+temperature | temperature
+#$#
+depth
+depth | depth
+#$#
+speed
+storm wind | speed
+#$#
+magnitude
+quake earthquake richter | magnitude richter
+#$#
+terrorist_attack
+terrorism terrorist isi isis jihadi jihad terror attacker attack | terrorism terrorist isi isis jihadi jihad hostage guerrilla
+#$#
+aviation_hazard
+airplane airbus aircraft aviation | accident hazard crash
+#$#
+riots
+rebel rebels rebellion war riot riots protest protester protests protesters angry anger angered | rebel rebels rebellion war riot riots protest protester protests protesters mob
+#$#
+epidemic
+epidemic hiv aids hepatitis virus infection infections disease diseases | epidemic injection injections medicine medicines syringe syringes
